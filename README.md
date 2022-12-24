@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajneesh11
+- 👋 Hi, I’m Rajneesh Basoya
 - 👀 I’m interested in Java, Android App Development, Spring Boot, Web Development, ML & AI
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me TBD
